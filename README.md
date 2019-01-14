@@ -46,6 +46,10 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 - [PyNacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
+## Application Templates
+
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge `django` template focused on code quality and security.
+
 # Educational
 
 ## Hacking Playground
