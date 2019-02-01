@@ -41,6 +41,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=python&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
+## Penetration Testing
+
+- [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+
 ## Cryptography
 
 - [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
