@@ -16,6 +16,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Tools](#tools)
 - [Educational](#educational)
 - [Companies](#companies)
+- [Other](#other)
 - [Contributing](#contributing)
 
 # Tools
