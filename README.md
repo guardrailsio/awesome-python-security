@@ -51,6 +51,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Penetration Testing
 
 - [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## Cryptography
 
