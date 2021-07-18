@@ -71,6 +71,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [DSVW](https://github.com/stamparm/DSVW) - Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes.
 - [DVPWA](https://github.com/anxolerd/dvpwa) - Damn Vulnerable Python Web Application was inspired by famous dvwa project and bobby-tables xkcd comics.
 
+## Books
+
+- [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - A comprehensive look at cybersecurity for Python developers
+
 ## Articles, Guides & Talks
 
 - [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
