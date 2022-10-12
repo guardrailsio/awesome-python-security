@@ -81,6 +81,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [10 Common Security Gotchas in Python](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03) - 10 common security gotchas in Python and how to avoid them.
 - [OWASP Python Security](http://www.pythonsecurity.org/) - Aims at creating a hardened version of python that makes it easier for developers to write applications more resilient to attacks and manipulations.
 - [Django Security](https://docs.djangoproject.com/en/2.1/topics/security/) - Overview of Django’s security features includes advice on securing a Django-powered site.
+- [Encapsulation in Python](https://www.scaler.com/topics/python/encapsulation-in-python/) - Encapsulation in Python provides a great user experience in terms of security through the access modifiers.
 
 # Companies
 
