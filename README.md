@@ -26,6 +26,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Secure.py](https://github.com/cakinney/secure.py) - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
 - [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
+- [Django deployment checklist](https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
 - [Django Session CSRF](https://github.com/mozilla/django-session-csrf) - CSRF protection for Django without cookies.
 
 ## Multi tools
