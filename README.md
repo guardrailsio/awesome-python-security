@@ -41,6 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [Semgrep](https://github.com/returntocorp/semgrep) - A fast, open-source, static analysis engine for finding bugs, detecting vulnerabilities in third-party dependencies, and enforcing code standards.
 
 ## Vulnerabilities and Security Advisories
 
