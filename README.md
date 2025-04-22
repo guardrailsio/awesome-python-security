@@ -31,6 +31,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Multi tools
 
+
+- [Abom](https://vulert.com/abom) - continuously monitors your open-source dependencies for new risks (vulnerabilities), recommends fixes, and ensures license compliance. Support Python, SBOM, Javascript , PHP and Java.
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
@@ -46,6 +48,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [Safety](https://github.com/pyupio/safety) - Safety checks your installed dependencies for known security vulnerabilities.
 - [snyk Vulnerability DB](https://snyk.io/vuln?type=pip) - Commercial but free listing of known vulnerabilities in libraries.
+- [Vulert Vulnerability DB](https://vulert.com/vuln-db/search?q=&vulnerabilities[]=pypi) - Most accurate vulnerability database for real-time, detailed security insights.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=python&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
