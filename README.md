@@ -58,6 +58,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 - [PyNacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [idtec-core](https://pypi.org/project/idtec-core/) - Post-Quantum Cryptographic Signatures and Encryption library using RLWE, SHAKE, and Threefish.
 
 ## Application Templates
 
