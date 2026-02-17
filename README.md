@@ -22,6 +22,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 # Tools
 
 ## Web Framework Hardening
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - Self-governance security architecture for AI agents: adaptive membrane filtering, coercion detection, epistemic hygiene, and multi-agent trust verification. `pip install orchard-kit`
 
 - [Secure.py](https://github.com/cakinney/secure.py) - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
