@@ -41,6 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- - [AIR Blackbox](https://github.com/airblackbox/air-blackbox-mcp) – EU AI Act compliance scanner for Python AI agents. Checks code against Articles 9, 10, 11, 12, 14, and 15 with prompt injection detection, PII tokenization, and HMAC-SHA256 audit chains.
 
 ## Vulnerabilities and Security Advisories
 
