@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that detects bots, vision AI agents, and headless browsers through behavioral analysis and SHA-256 proof of work. Python (FastAPI) server included.
 
 ## Static Code Analysis
 
