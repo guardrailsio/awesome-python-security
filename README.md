@@ -28,6 +28,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 - [Django deployment checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
 - [Django Session CSRF](https://github.com/mozilla/django-session-csrf) - CSRF protection for Django without cookies.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that detects bots, vision AI agents, and headless browsers through behavioral analysis and SHA-256 proof of work. Python (FastAPI) server included.
 
 ## Multi tools
 
