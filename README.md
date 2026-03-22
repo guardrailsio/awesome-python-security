@@ -36,6 +36,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 
+## AI Agent Security
+
+- [TokenFence](https://github.com/u4ma-kev/tokenfence-python) - Runtime guardrails SDK for AI agents — per-workflow budget caps, automatic model downgrade, kill switches, and a least-privilege policy engine (allow/deny/require_approval) with audit trail. Zero dependencies.
+
 ## Static Code Analysis
 
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
