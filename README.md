@@ -63,6 +63,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge `django` template focused on code quality and security.
 
+## Package Supply Chain Security
+
+- [trustcheck](https://github.com/Halfblood-Prince/trustcheck) - CLI tool for verifying PyPI package attestations and package provenance.
+
 # Educational
 
 ## Hacking Playground
