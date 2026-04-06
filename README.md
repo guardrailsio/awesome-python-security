@@ -41,6 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [asqav](https://github.com/jagmarques/asqav-sdk) - AI compliance scanning for Python. Detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Available via pip install asqav.
 
 ## Vulnerabilities and Security Advisories
 
