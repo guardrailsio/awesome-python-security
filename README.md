@@ -62,6 +62,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Application Templates
 
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge `django` template focused on code quality and security.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 # Educational
 
