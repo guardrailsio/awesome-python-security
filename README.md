@@ -42,6 +42,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
+## Malware Analysis
+
+- [AIDebug](https://github.com/anpa1200/AIDebug) - Python malware reverse-engineering debugger that emits ATT&CK mappings, YARA candidates, IOCs, JSON exports, and analyst reports.
+
 ## Vulnerabilities and Security Advisories
 
 - [Safety](https://github.com/pyupio/safety) - Safety checks your installed dependencies for known security vulnerabilities.
