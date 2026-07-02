@@ -37,6 +37,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 
 ## Static Code Analysis
+- [ansede-static](https://github.com/mattybellx/Ansede) — Offline SAST with 96.3% CVE recall. Detects IDOR (CWE-639), SQLi, path traversal, and 35+ CWE types. `pip install ansede-static`.
 
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
