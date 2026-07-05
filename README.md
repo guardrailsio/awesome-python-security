@@ -1,4 +1,4 @@
-<br/>
+﻿<br/>
 <div align="center">
 
 A curated list of awesome Python security related resources.
@@ -23,7 +23,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-- [Secure.py](https://github.com/cakinney/secure.py) - secure.py 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
+- [Secure.py](https://github.com/cakinney/secure.py) - secure.py ًں”’ is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 - [Flask-HTTPAuth](https://github.com/miguelgrinberg/flask-httpauth/) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes.
 - [Flask Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Talisman is a small Flask extension that handles setting HTTP headers that can help protect against a few common web application security issues.
 - [Django deployment checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) - Web framework Django has built-in feature to check for security configurations: run this command `manage.py check --deploy`. It's really helpful as it already included in the framework.
@@ -81,7 +81,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
 - [10 Common Security Gotchas in Python](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03) - 10 common security gotchas in Python and how to avoid them.
 - [OWASP Python Security](http://www.pythonsecurity.org/) - Aims at creating a hardened version of python that makes it easier for developers to write applications more resilient to attacks and manipulations.
-- [Django Security](https://docs.djangoproject.com/en/2.1/topics/security/) - Overview of Django’s security features includes advice on securing a Django-powered site.
+- [Django Security](https://docs.djangoproject.com/en/2.1/topics/security/) - Overview of Djangoâ€™s security features includes advice on securing a Django-powered site.
 
 # Companies
 
