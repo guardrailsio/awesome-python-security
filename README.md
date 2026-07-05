@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous intrusion detection and prevention system written in Python with 9 active defense layers (honeypot, behavioral analysis, ML-based anomaly detection, geo-blocking) and ML-DSA-87 post-quantum signed alerts (NIST FIPS 204). Self-hosted, zero telemetry, Docker.
 
 ## Static Code Analysis
 
