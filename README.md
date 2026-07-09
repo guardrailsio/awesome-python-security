@@ -52,6 +52,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Penetration Testing
 
 - [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing platform written in Python that plans and executes full engagements across web, API, Active Directory and Kubernetes, with a local privacy gateway so the model never sees real values.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## Cryptography
