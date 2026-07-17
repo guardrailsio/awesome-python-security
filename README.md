@@ -53,6 +53,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [jwt-auditor](https://github.com/mohelobeid/jwt-auditor) - Offline CLI that audits JSON Web Tokens for alg:none, weak HMAC secrets, and RS256 to HS256 confusion.
 
 ## Cryptography
 
