@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [dbmask](https://github.com/sealandseacat/dbmask) - Scan SQL databases for sensitive columns, mask them with deterministic fakes, and verify the masking before data leaves production.
 
 ## Static Code Analysis
 
