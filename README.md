@@ -38,6 +38,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
+- [aicaudit](https://github.com/IhateStomachProblems/aicaudit) - AI-powered code audit CLI with taint-path static analysis: traces user input source-to-sink, proves constants safe, and attaches fail-safe AI verdicts with confidence scores.
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
