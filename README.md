@@ -87,6 +87,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing known vulnerabilities in your dependencies.
+- [EyalSec](https://eyalsec.com) - A commercial Python runtime: run your app unchanged and it reports or blocks untrusted input reaching a SQL query, shell command, deserializer or file path.
 
 # Other
 
