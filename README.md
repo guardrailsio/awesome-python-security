@@ -63,6 +63,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge `django` template focused on code quality and security.
 
+## LLM and agent tool-call controls
+
+- [AgentTaint](https://github.com/Marouane2005/AgentTaint) - A provenance-aware firewall and stdio proxy, written in Python, that allows, holds, or blocks MCP tool calls based on where sensitive arguments came from.
+
 # Educational
 
 ## Hacking Playground
